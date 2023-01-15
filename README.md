@@ -1,5 +1,7 @@
 # Issue of `Minitest/MultipleAssertions`
 
+See https://github.com/rubocop/rubocop-minitest/issues/223 for the issue details.
+
 After cloning this repository, you can reproduce the issue.
 
 ```console
