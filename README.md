@@ -1,3 +1,5 @@
+# Issue of `Minitest/MultipleAssertions`
+
 After cloning this repository, you can reproduce the issue.
 
 ```console
